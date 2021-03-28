@@ -158,7 +158,7 @@ h3{
 /* shopping */
 
 .card-img-top{
-    width: 100%;
+    width: 90%;
 }
 
 .col-xs-2{
@@ -191,7 +191,7 @@ h3{
 
 
 #top_nav {
-    height: 100px;
+    height: 90px;
     background-color: #ea5566 !important;
     color:lightgray;
 }
@@ -209,7 +209,7 @@ h3{
 }
 
 #shop_logo > a > img{
-    width: 90px;
+    width: 80px;
 }
 
 
