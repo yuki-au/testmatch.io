@@ -191,7 +191,7 @@ h3{
 
 
 #top_nav {
-    height: 85px;
+    height: 100px;
     background-color: #ea5566 !important;
     color:lightgray;
 }
@@ -209,8 +209,7 @@ h3{
 }
 
 #shop_logo > a > img{
-    width: 65px;
-    margin: 0 0 10px 0;
+    width: 90px;
 }
 
 
@@ -523,3 +522,8 @@ h5{
     left:10px;
     color: #ea5566; 
 }
+
+#shopping, #search_top{
+    color: white;
+}
+
